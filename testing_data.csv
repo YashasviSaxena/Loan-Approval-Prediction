@@ -1,0 +1,5 @@
+"age;""job"";""marital"";""education"";""default"";""housing"";""loan"";""contact"";""month"";""day_of_week"";""duration"";""campaign"";""pdays"";""previous"";""poutcome"";""emp.var.rate"";""cons.price.idx"";""cons.conf.idx"";""euribor3m"";""nr.employed"";""y""",,,,,,,,,,,,,,,,,,,,
+"49;""entrepreneur"";""married"";""university.degree"";""unknown"";""yes"";""no"";""telephone"";""may"";""mon"";1042;1;999;0;""nonexistent"";1.1;93.994;-36.4;4.857;5191",,,,,,,,,,,,,,,,,,,,
+"37;""admin."";""married"";""university.degree"";""unknown"";""yes"";""no"";""telephone"";""may"";""mon"";214;1;999;0;""nonexistent"";1.1;93.994;-36.4;4.857;5191",,,,,,,,,,,,,,,,,,,,
+"41;""blue-collar"";""divorced"";""basic.4y"";""unknown"";""yes"";""no"";""telephone"";""may"";""mon"";1575;1;999;0;""nonexistent"";1.1;93.994;-36.4;4.857;5191",,,,,,,,,,,,,,,,,,,,
+"55;""technician"";""married"";""university.degree"";""no"";""no"";""no"";""telephone"";""may"";""mon"";349;1;999;0;""nonexistent"";1.1;93.994;-36.4;4.857;5191",,,,,,,,,,,,,,,,,,,,
